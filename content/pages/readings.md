@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings and related questions for each week of
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

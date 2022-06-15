@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the course assignments, including
+  a seminar presentation and a term paper. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
