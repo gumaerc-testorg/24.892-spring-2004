@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, readings, requirements, grading, and the schedule of course topics
+  and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3403163d-758b-6714-1631-a149079aa07d
 ---
@@ -21,7 +26,7 @@ The readings for the course will be drawn from an interdisciplinary literature, 
 Texts
 -----
 
-The texts consist of book excerpts and journal articles. Please see [readings]({{< baseurl >}}/pages/readings).
+The texts consist of book excerpts and journal articles. Please see {{% resource_link a44c8782-2f12-6a98-ecb0-0fbd8593deb3 "readings" %}}.
 
 Requirements
 ------------
